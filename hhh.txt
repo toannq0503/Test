@@ -1,0 +1,11 @@
+==================================================
+Product Name      : Windows 10 Enterprise
+Product ID        : 00329-10438-00000-AA402
+Product Key       : TVDW8-7NPHX-GXY7F-X6T3H-G6PJR
+Installation Folder : C:\Windows
+Service Pack      : 
+Build Number      : 17763
+Computer Name     : TOAN
+Modified Time     : 7/23/2019 8:17:41 AM
+==================================================
+
